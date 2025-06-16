@@ -1,0 +1,68 @@
+DAY 1:
+    The foundation...
+    🎯 Goal:
+✅ Freeze the exact idea & features.
+✅ Write the MVP (Minimum Viable Product) document.
+✅ Pick Tech Stack — tools, APIs, hosting — NO CODING today.
+
+            ✅ Task 1: What are you building? (Clarity)
+            ✅ Task 2: Choose Tech Stack
+            ✅ Task 3: Make “MVP Doc” (Project Document)
+            ✅ Task 4: Decide Backend: Python (Flask) or Node.js (Express)?
+
+
+
+
+DAY 2:
+        🚀 DAY 2 PLAN — “Frontend (User Interface)”
+
+🎯 Goal:
+👉 Build a simple webpage:
+1 text box (for user prompt)
+1 "Generate Reel" button
+(Later: this button will call your Flask backend)
+
+            ✅ Task 1: Frontend Folder Setup
+            ✅ Task 2: Write Code — Clean & Simple
+            ✅ Task 3: Run it Locally:
+
+
+
+
+DAY 3
+        🚀 DAY 3 PLAN — "Flask Backend (Starter)"
+
+🎯 Goal:
+✔️ Setup Flask backend
+✔️ Create API /generate to receive text prompt from frontend
+✔️ For now: just print the prompt and return a dummy response — NO real AI or video yet (that’s Day 4+).
+
+
+        ✅ Task 1: Install Flask (1 time setup)
+        ✅ Task 2: Write Flask Backend — Simple Version
+        ✅ Task 3: Connect Frontend to Flask Backend
+        ✅ Task 4: Run & Test (Run app.py)
+
+✅ Day 3 Checklist:
+ Flask Installed
+ Flask API (/generate) working
+ Frontend fetch connected
+ Tested end-to-end
+
+
+DAY 4
+        🚀 DAY 4 PLAN — "AI (GPT) Script Generation"
+🎯 Goal:
+✔️ Take user prompt from Frontend
+✔️ Send it to OpenAI GPT (your free API key)
+✔️ Get back a Reel script (text)
+✔️ Return that to the Frontend
+
+        ✅ Task 1: Get Your OpenAI API Key
+        ✅ Task 2: Install OpenAI Python Package
+        ✅ Task 3: Modify app.py — Add GPT Integration
+        ✅ Task 4: Modify Frontend (script.js) to show AI script:
+        ✅ Task 5: Test Now:
+
+
+

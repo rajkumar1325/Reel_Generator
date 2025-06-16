@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AI Auto-Reel Generator</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>AI Auto-Reel Generator 🎬</h1>
+        <textarea id="promptInput" placeholder="Enter your Reel topic here..."></textarea>
+        <button onclick="generateReel()">Generate Reel</button>
+
+        <!-- displays progress msg -->
+        <p id="status"></p>
+
+        <!-- displays final generated script -->
+        <div id="scriptOutput" style="white-space: pre-wrap; margin-top: 10px; color: #333;"></div>
+        
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
